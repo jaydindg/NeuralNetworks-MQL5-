@@ -1,4 +1,4 @@
-#property copyright "William Nicholas"
+#property copyright "Jaydin Gulley"
 
 #include <Math\Stat\Normal.mqh>
 #include <Math\Stat\Uniform.mqh>
