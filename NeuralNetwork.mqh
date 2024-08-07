@@ -1,9 +1,9 @@
 //+------------------------------------------------------------------+
 //|                                                NeuralNetwork.mqh |
-//|                                                 William Nicholas |
+//|                                                    Jaydin Gulley |
 //|                                             https://www.mql5.com |
 //+------------------------------------------------------------------+
-#property copyright "William Nicholas"
+#property copyright "Jaydin Gulley"
 #property link      "https://www.mql5.com"
 #include <Math\Stat\Normal.mqh>
 
